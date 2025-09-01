@@ -92,3 +92,7 @@
   },
   "packageManager": "pnpm@10.14.0"
 }
+"scripts": {
+  ...
+  "pages:build": "pnpm run build"
+}
